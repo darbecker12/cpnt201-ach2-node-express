@@ -1,0 +1,22 @@
+{
+  "name": "cpnt201-ach2-node-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darbecker12/cpnt201-ach2-node-express.git"
+  },
+  "author": "Darryl Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darbecker12/cpnt201-ach2-node-express/issues"
+  },
+  "homepage": "https://github.com/darbecker12/cpnt201-ach2-node-express#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
